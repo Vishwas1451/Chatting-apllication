@@ -1,0 +1,43 @@
+.send-otp {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF8C38;
+    border: none;
+    width: 30%;
+    margin-top: 59px;
+    padding-block: .75rem;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+    margin-left: 4em;
+    padding :16px 16px;
+}
+
+.send-otp:hover {
+    transform: translate(1px, 1px);
+}
+
+.send-otp-2 {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF8C38;
+    border: none;
+    width: 30%;
+    margin-top: 59px;
+    padding-block: .75rem;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+    margin-left: 4em;
+    padding :13px 13px;
+}
+
+.send-otp-2:hover {
+    transform: translate(1px, 1px);
+}

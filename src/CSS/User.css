@@ -1,0 +1,81 @@
+.travel{
+    color: blue;
+    padding-bottom :0px;
+    font-size: 20px;
+    padding-left: 13px;
+    display: flex;
+    text-decoration: none;
+}
+.body{
+    background-color: aliceblue;
+}
+
+.imag {
+    border-radius: 150%;
+    /* padding-top: 10px; */
+    /* margin-top: 20px; */
+}
+.imag2 {
+    border-radius: 200%;
+}
+
+.link-underline {
+    text-decoration: none;
+}
+
+.heads {
+    padding-right: 31em;
+    background-color: rgb(236, 232, 26);
+    /* padding-bottom: 20px; */
+    font-size:10px;
+    display: flex;
+    padding-left: 1em;
+    /* width: 120px; */
+}
+.heads2 {
+    display: flex;
+
+}
+
+.full-side {
+    display: flex;
+    /* flex-direction: row; */
+    /* width: 150em; */
+}
+
+/* .contacts {
+    padding-bottom: 200px;
+    width: 20em;
+} */
+.contact-list {
+    margin-top: 0;
+}
+.place-username {
+    padding-left: 1em;
+    text-decoration: none;
+    
+}
+.places-username {
+    font-size: 20px;
+    padding-left: 20px;
+}
+.left-side {
+    background-color: rgb(246, 248, 250);
+    /* margin-right: 66em; */
+    padding-bottom: 15.5em;
+
+    /* display: flex; */
+    /* flex-direction: row; */
+
+}
+
+.right-side {
+    /* margin-left: 33em; */
+    background-color: rgb(166, 243, 190);
+    /* width: 20px; */
+    /* padding-left: 20.5em; */
+    /* padding-left: 20em; */
+    /* text-align: center; */
+    /* padding-top: 15em; */
+    /* padding-right: 46.5em; */
+}

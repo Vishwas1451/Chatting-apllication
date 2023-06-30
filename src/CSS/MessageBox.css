@@ -1,0 +1,40 @@
+.p1 {
+    padding-left: 200px;
+    display:flex ;
+}
+.welcome {
+    padding-left: 6em;
+}
+.to {
+    padding-left: 6em;
+}
+.chaos {
+    padding-left: 6em;
+}
+.div1 {
+    /* margin-left: 33em; */
+    color: black;
+    font-size: 4em;
+    /* margin-left: 3em; */
+    margin-top: 2em;
+    /* width: 20px; */
+    /* padding-bottom: 25.8em; */
+        /* padding-left: 20em; */
+    text-align: center;
+    padding-right: 6.5em;
+}
+.wait {
+    padding-right: 43em;
+}
+.h1 {
+padding-left: 8em;
+}
+.textbox {
+    margin-left: 0.3em;
+    margin-top: 42em;
+    width : 78em;
+    height: 2em;
+}
+.div2 {
+    padding-right: 1em;
+}

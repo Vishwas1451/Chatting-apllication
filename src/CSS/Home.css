@@ -1,0 +1,55 @@
+.home {
+    color: rgb(24, 234, 69);
+    font-size: 60px;
+    text-align: center;
+    margin-top: 87px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.login-link{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF8C38;
+    border: none;
+    width: 10%;
+    margin-top: 97px;
+    padding-block: .75rem;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family:'Times New Roman', Times, serif;
+    transition: transform .1s ease-in-out;
+    padding : 20px 30px 
+}
+
+.login-link:hover {
+    transform: translate(1px, 1px);
+}
+.signup-link{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF8C38;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+    border: none;
+    width: 10%;
+    margin-top: 97px;
+    padding-block: .75rem;
+    margin-left: 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+    padding : 20px 30px 
+}
+.signup-link:hover {
+    transform: translate(1px, 1px);
+}
+.div {
+    padding-left: 37em;
+}
