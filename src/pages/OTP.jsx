@@ -10,7 +10,7 @@ function OTP() {
         }
         else{
             alert("Invalid otp")
-            navigate('/otp', { replace: true });
+            navigate(window.location.pathname, { replace: true });
         }
 
   }
@@ -19,7 +19,7 @@ function OTP() {
       <form className="login-form">
         <p className="first-p-tag">OTP Details</p>
         <label className="password-label">Enter OTP :</label>
-        <input id='otp' type="text"></input>
+        <input id='otp' type="password"></input>
         <button className="send-otp">Send OTP</button>
         <button className="send-otp-2" onClick={Click}>Verify</button>
        

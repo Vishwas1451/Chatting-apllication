@@ -1,5 +1,5 @@
 .home {
-    color: rgb(24, 234, 69);
+    color: rgb(234, 80, 24);
     font-size: 60px;
     text-align: center;
     margin-top: 87px;
@@ -15,7 +15,7 @@
     border: none;
     width: 10%;
     margin-top: 97px;
-    padding-block: .75rem;
+    /* padding-block: .5rem; */
     color: white;
     font-weight: 700;
     border-radius: 5px;

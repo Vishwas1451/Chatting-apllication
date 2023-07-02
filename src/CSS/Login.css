@@ -27,10 +27,17 @@
     
     
 }
-
-#user,#password {
+#user {
     background-color: rgb(255, 255, 255);
-    margin-left: 20px;
+    margin-left: 12px;
+    font-size: 20px;
+    height: 30px;
+    color: black;
+    border-radius: 8px;
+}
+#password {
+    background-color: rgb(255, 255, 255);
+    margin-left: 18px;
     font-size: 20px;
     height: 30px;
     color: black;
